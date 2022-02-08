@@ -1,6 +1,5 @@
-## Olá, me chamo André !
 ### Bem vindo ao meu perfil GitHub 👋
-
+#### Olá, me chamo André, sou um dev back-end
 
 <div>
 <a href="https://github.com/andre20022">

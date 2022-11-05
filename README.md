@@ -1,5 +1,5 @@
 ### Olá, eu sou o André Nascimento 👦
-Um programador Jr, que se aventura no mundo da tecnologia buscando sempre novos conhecimento e experiências,<br> para contribuir sua carreira :dart:. 
+Um programador Jr, que se aventura no mundo da tecnologia buscando sempre novos conhecimento e experiências,<br> para contribuir na sua carreira :dart:. 
 
 ## Contatos
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andresilvay6@gmail.com)

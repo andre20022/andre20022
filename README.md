@@ -1,6 +1,12 @@
 ### Olá, eu sou o André Nascimento 👦
 Um programador full stack Jr, que ama se aventurar no mundo da tecnologia buscando sempre novos conhecimentos em diversos ramos de desenvolvimento como Front-end, Back-end e Banco de dados para construir uma base solida de conhecimento :dart:. 
 
+> Pontos de estudo atual
+ - Clean Code
+ - Design Pattern
+ - Frameworks
+ - UX / UI
+
 ## Tecnologias
   ### :beginner: Front-end
   <div>

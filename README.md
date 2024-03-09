@@ -5,6 +5,7 @@ Um programador full stack Jr, que ama se aventurar no mundo da tecnologia buscan
  - Clean Code
  - Design Pattern
  - Frameworks
+ - SOLID
  - UX / UI
 
 ## Tecnologias
@@ -18,11 +19,8 @@ Um programador full stack Jr, que ama se aventurar no mundo da tecnologia buscan
 
   - :beginner: Back-end
   
-| <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" /> | <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /> | <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> | 
-| :---: | :---: | :---: |
-
-| <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> | <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> |
-| :---: | :---: |
+| <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" /> | <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" /> | <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> | <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> | <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> |
+| :---: | :---: | :---: | :---: | :---: |
 
   - :beginner: Banco de dados / Infraestrutura
   
